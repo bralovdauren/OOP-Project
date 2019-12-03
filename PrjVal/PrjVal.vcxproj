@@ -128,6 +128,7 @@
     <ClCompile Include="library.cpp" />
     <ClCompile Include="Magazine.cpp" />
     <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="PubApp.cpp" />
     <ClCompile Include="PubRecord.cpp" />
     <ClCompile Include="ReadWriteable.cpp" />
     <ClCompile Include="Utils.cpp" />
@@ -145,9 +146,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="libdata.dat" />
-  </ItemGroup>
-  <ItemGroup>
-    <Object Include="PubApp.obj" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

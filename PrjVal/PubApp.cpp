@@ -1,6 +1,6 @@
 /***********************************************************************
 // OOP244 Project Milestone 4
-// File	PubApp.h
+// File	PubApp.cpp
 // Version 1.1
 // Author	Fardad Soleimanloo
 // Description
